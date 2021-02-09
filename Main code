@@ -1,0 +1,7 @@
+const Keyboard_Ko = [];
+const Keyboard_En = [];
+
+if (msg.startsWith(".키보드 ") {
+var First = msg.split(" ")[1][0];
+var Last = msg.split(" ")[1][1];
+}
